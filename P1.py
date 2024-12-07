@@ -21,7 +21,7 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 
 
-print("P1: Starting...")
+print("P1: Starting....")
 
 # Generate RSA key pair
 print("P1: Generating RSA key pair...")
